@@ -5,6 +5,6 @@ loanthuyho.cs[at]gmail.com
 
 #### Research Interests
 - Knowledge Representation and Reasoning (KKR)
-- Explainable AI
 - Argumentation
+- Explainable AI
 - Human-Computer Interaction
