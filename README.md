@@ -1,26 +1,69 @@
-# Loan Ho
- [Home](#home) - [CV](#cv) - [Publications](#publications) -  [Contact](#contact)
 
-## About me
-Welcome to my Markdown website! This is a simple example to demonstrate how Markdown can be used to create web content.
 
----
+![Github Forks](https://img.shields.io/github/forks/senli1073/senli1073.github.io?style=flat)
+![Github Stars](https://img.shields.io/github/stars/senli1073/senli1073.github.io?style=flat)
+![License](https://img.shields.io/github/license/senli1073/senli1073.github.io)
+![Last Commit](https://img.shields.io/github/last-commit/senli1073/senli1073.github.io)
 
-## Home
+# A simple Github Pages template for academic personal website.
 
-Welcome to our website! We provide information about our work and publications.
+## Preview
+[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/senli1073.github.io/main/screenshot_full.png)](https://senli1073.github.io/)
 
-## CV
 
-You can find my CV [here](#cv).
+## Introduction
 
-## Publications
+This is an academic personal website template based on [bootstrap](https://github.com/StartBootstrap/startbootstrap-new-age).
 
-Check out our latest publications [here](#publications).
+The template is designed to integrate Markdown files as content input.  There's no need to compile the webpage before deployment.  Upon loading, the Markdown files are automatically parsed and embedded into the page.
 
-## Contact
+This template supports LaTeX formula input. You can use `$...$` and `\(...\)` as delimiters for inline-math, or use `$$...$$` and `\[...\]` as delimiters for display-math. Macros such as `\ref{...}`, `\eqref{...}`, and `\begin{equation}...\end{equation}` are also supported. See [MathJax](https://docs.mathjax.org/en/latest/index.html) for more details.
 
-Feel free to reach out to us:
-- Email: [example@example.com](mailto:example@example.com)
-- Phone: +1 (123) 456-7890
+:milky_way: Demo: https://senli1073.github.io/
 
+
+## Getting Start
+### 1. Fork this repository
+The repository name should be `<username>.github.io`, which will also be your website's URL.
+
+
+### 2. Edit page content
+
+(1) Go to the folder where you want to store your project, and clone the new repository:
+```
+git clone https://github.com/<username>/<username>.github.io.git
+```
+The directory structure is as follows:
+
+```.
+.
+├── contents
+└── static
+    ├── assets
+    │   └── img
+    ├── css
+    └── js
+```
+
+(2) Modify the content of each section, which corresponds to `contents/*.md`.
+
+(3) Adjust the title, copyright information, and other text of the website in `contents/config.yml`
+
+(4) Replace background image and photo with new ones for your web pages in `static/assets/img/`
+
+(5) Push it: 
+```
+git commit -am 'init'
+git push
+```
+
+
+### 3. Enjoy
+
+Fire up a browser and go to `https://<username>.github.io`
+
+
+
+## License
+
+Copyright Sen Li, 2023. Licensed under an MIT license. You can copy and mess with this template.
