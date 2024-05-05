@@ -1,14 +1,11 @@
 # My Markdown Website
 
-## Introduction
+## About me
 Welcome to my Markdown website! This is a simple example to demonstrate how Markdown can be used to create web content.
 
 # Main Menu
 
-- [Home](#home)
-- [CV](#cv)
-- [Publications](#publications)
-- [Contact](#contact)
+ [Home](#home) |  [CV](#cv) | [Publications](#publications) | [Contact](#contact)
 
 ---
 
