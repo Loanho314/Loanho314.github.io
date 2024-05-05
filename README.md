@@ -24,15 +24,3 @@ Feel free to reach out to us:
 - Email: [example@example.com](mailto:example@example.com)
 - Phone: +1 (123) 456-7890
 
-## Code Example
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My Markdown Website</title>
-</head>
-<body>
-    <h1>Hello, Markdown!</h1>
-    <p>This is a paragraph written in Markdown and displayed as HTML.</p>
-</body>
-</html>
