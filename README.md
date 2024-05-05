@@ -1,10 +1,8 @@
 # Loan Ho
- [Home](#home)  [CV](#cv)  [Publications](#publications)  [Contact](#contact)
+ [Home](#home) - [CV](#cv) - [Publications](#publications) -  [Contact](#contact)
 
 ## About me
 Welcome to my Markdown website! This is a simple example to demonstrate how Markdown can be used to create web content.
-
-
 
 ---
 
