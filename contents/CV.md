@@ -13,8 +13,8 @@ hjfbskajfbksanfksdnf
   Ph.D. in Computer Science, under the supervision of Dr. Somjit Arch-int.
 
 - 2010-2012
-  
+ 
   Hue University, VN
-
+  
   Master in Computer Science.
 
