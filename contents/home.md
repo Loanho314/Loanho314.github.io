@@ -10,6 +10,7 @@ Previously, I did my PhD in Thailand, University of Khon Kaen (2016-2020), and o
 #### Research Interests
 - Knowledge Representation and Reasoning (KKR)
 - Argumentation
+- Cognitive Reasoning 
 - Explainable AI
 - Human-Computer Interaction
   
