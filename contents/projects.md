@@ -1,6 +1,6 @@
 Ongoing research projects and initiatives.
 
-[![Hybird Intelligence](assets/img/HI.jpg)]
+[![Hybird Intelligence](static/assets/img/HI.jpeg)]
 
 **Knowledge Representation Formalisms for Hybrid Intelligence**
 
@@ -12,6 +12,7 @@ You can find more information about it [here](https://www.hybrid-intelligence-ce
 In this project, we study a new KR formalism for modelling and reasoning inconsistent/prioritised knowledge bases (KBs) in Hybrid Intelligence scenarios. 
 The novel formalism exhibits several benefits, notably providing dialogical explanations for logical reasoning in inconsistent KBs.
 We also implement and evaluate it on large-scale real-world datasets by using our [Darg system](https://github.com/Loanho314/SAF-Argumentation) 
+
 
 
 
