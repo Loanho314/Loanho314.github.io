@@ -1,4 +1,4 @@
-I am working in Hybrid Intelligence at the Vrije Universiteit Amsterdam (Knowledge in AI group). My research focuses on KKR (combining **Logical Reasoning** with **Argumentation** as a subfield of KKR) to enable their capacity in **reasoning** and **explainability**, and use these approaches to address real-world problems.
+I am working in Hybrid Intelligence at the Vrije Universiteit Amsterdam (Knowledge in AI group). My research focuses on Knowledge Representation and Reasoning (KKR), more specifically on logical formalisms and Argumentation, to enable their capacity in **reasoning** and **explainability**, and use these approaches to address real-world problems.
 
 Previously, I did my PhD in Thailand, University of Khon Kaen (2016-2020), and obtained my masters degree and bachelors degree in Information Sciences from Hue University (Vietnam) in 2014. 
 <!--Having a diverse research background, I made research visits to several institutions, including University of Bozen-Bolzano, University of Amsterdam, University of Calabria and University of Oxford. -->
