@@ -8,13 +8,13 @@
 
 - 2016-2019
   
-  Khon Kaen University, TL
+  Khon Kaen University, Thailand
 
   Ph.D. in Computer Science, under the supervision of Dr. Somjit Arch-int.
 
 - 2010-2012
  
-  Hue University, VN
+  Hue University, Vietnam
   
   Master in Computer Science.
 
