@@ -15,7 +15,7 @@ Previously, I did my PhD in Thailand, University of Khon Kaen (2016-2020), and o
 - Human-Computer Interaction
   
 #### News
-**March, 2026** 
+**March - May, 2026** 
 I will be visiting the LaBRI research lab (University of Bordeaux) with a topic **Reasoning & Conditional Preference** together with **Meghyn Bienvenu**.
 
 <!-- **March, 2026**  
