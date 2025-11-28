@@ -1,6 +1,7 @@
-I am a PhD in Hybrid Intelligence at the Vrije Universiteit Amsterdam (Knowledge in AI group). My research focuses on KKR (combining Logical Reasoning with Argumentation as a subfield of KKR) to enable their capacity in reasoning and explainability, and use these approaches to address real-world problems.
+I am working in Hybrid Intelligence at the Vrije Universiteit Amsterdam (Knowledge in AI group). My research focuses on KKR (combining **Logical Reasoning** with **Argumentation** as a subfield of KKR) to enable their capacity in **reasoning** and **explainability**, and use these approaches to address real-world problems.
 
-Previously, I was a postdoctoral researcher in the Knowledge in group at VU (2018 -2021) and in the Reinforcement Learning group at Leiden University (2021-2022). I did my PhD in Germany, University of Mannheim (2014-2017), and obtained my masters degree in Computational Logic from TU-Wien (Austria) and TU-Dresden (Germany)in 2012. Having a diverse research background, I made research visits to several institutions, including University of Bozen-Bolzano, University of Amsterdam, University of Calabria and University of Oxford.
+Previously, I did my PhD in Thailand, University of Khon Kaen (2016-2020), and obtained my masters degree and bachelors degree in Information Sciences from Hue University (Vietnam) in 2014. 
+<!--Having a diverse research background, I made research visits to several institutions, including University of Bozen-Bolzano, University of Amsterdam, University of Calabria and University of Oxford. -->
 
 
 #### Email
@@ -11,5 +12,11 @@ Previously, I was a postdoctoral researcher in the Knowledge in group at VU (201
 - Argumentation
 - Explainable AI
 - Human-Computer Interaction
+  
 #### News
-fsfsdfsdaf
+**March, 2026**  
+I will be visiting the LaBRI research lab (University of Bordeaux) with a topic **Reasoning & Conditional Preference** together with **Meghyn Bienvenu**
+
+<!-- **March, 2026**  
+*Paper acceptance:* **A Meta-Reinforcement Learning Algorithm for Causal Discovery**, by Andreas Sauter, myself, and Vincent François-Lavet, has been accepted to the *Conference on Causal Learning and Reasoning (CleaR 2023)*. -->
+
