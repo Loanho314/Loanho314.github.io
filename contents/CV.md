@@ -12,7 +12,7 @@
 
   Ph.D. in Computer Science, under the supervision of Dr. Somjit Arch-int.
 
-- 2010-2012
+- 2012-2014
  
   Hue University, Vietnam
   
