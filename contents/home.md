@@ -8,10 +8,9 @@ Previously, I did my PhD in Thailand, University of Khon Kaen (2016-2020), and o
 [Contact me](mailto:loanthuyho.cs@gmail.com)
 
 #### Research Interests
-- Knowledge Representation and Reasoning (KKR)
-- Argumentation
-- Cognitive Reasoning 
+- Knowledge Representation and Reasoning (KKR), Cognitive Reasoning
 - Explainable AI
+- Argumentation
 - Human-Computer Interaction
   
 #### News
