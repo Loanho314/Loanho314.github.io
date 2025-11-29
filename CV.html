@@ -24,7 +24,7 @@
 
     <script>
         // Fetch and render the Markdown file
-        fetch('CV.md')
+        fetch('contents/CV.md')
             .then(response => {
                 if (!response.ok) throw new Error("Cannot fetch CV.md");
                 return response.text();
@@ -40,6 +40,7 @@
     </script>
 </body>
 </html>
+
 
 
 
