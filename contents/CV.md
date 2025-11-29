@@ -6,7 +6,7 @@
 
   Ph.D. in the Knowledge in AI group, under the supervision of Prof. Stefan Schlobach, Dr. Victor de Boer, Dr. M Birna van Riemsdijk and Dr. Myrthe Tielman.
 
-- 2016-2019
+- 2016-2020
   
   Khon Kaen University, Thailand
 
