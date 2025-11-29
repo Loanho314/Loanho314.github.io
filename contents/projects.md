@@ -11,7 +11,8 @@ You can find more information about it [here](https://www.hybrid-intelligence-ce
 
 In this project, we study a new KR formalism for modelling and reasoning inconsistent/prioritised knowledge bases (KBs) in Hybrid Intelligence scenarios. 
 The novel formalism exhibits several benefits, notably providing dialogical explanations for logical reasoning in inconsistent KBs.
-We also evaluate the framework on large-scale real-world datasets by implementing the [Darg system](https://github.com/Loanho314/SAF-Argumentation) 
+We also evaluate the framework on large-scale real-world datasets by implementing a [Darg system](https://github.com/Loanho314/SAF-Argumentation) 
+
 
 
 
