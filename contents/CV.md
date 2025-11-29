@@ -18,9 +18,9 @@
   
   Master in Computer Science.
 
-  - 2006-2010
+- 2006-2010
 
-   Hue University, Vietnam
+  Hue University, Vietnam
 
   Bacherlor in Informatics.
 
